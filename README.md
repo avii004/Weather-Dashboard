@@ -10,3 +10,4 @@ The current weather for the search that you entered in the search box is shown o
 
 ## Website links
 https://avii004.github.io/Weather-Dashboard/
+https://github.com/avii004/Weather-Dashboard
