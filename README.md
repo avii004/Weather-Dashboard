@@ -16,4 +16,5 @@ Server-Side API - OpenWeather API
 
 ## Website links
 https://avii004.github.io/Weather-Dashboard/
+
 https://github.com/avii004/Weather-Dashboard
