@@ -5,6 +5,12 @@ The current weather for the search that you entered in the search box is shown o
 ## Instructions
 
 ## Features
+CSS
+HTML
+JavaScript
+JQuery
+Bootstrap
+Server-Side API - OpenWeather API
 
 ## Demo 
 
